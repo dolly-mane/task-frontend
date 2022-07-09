@@ -1,0 +1,34 @@
+.task-container{
+    font-size: 25px;
+    padding-left: 30px;
+    background-color: #527a7a;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: white;
+    margin:20px;
+ 
+}
+.delete-btn{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow:  4px 4px 6px  rgb(74, 73, 73);
+    cursor: pointer;
+    font-size: larger;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+}
+
+
+.update-btn{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow:  4px 4px 6px  rgb(74, 73, 73);
+    cursor: pointer;
+    font-size: larger;
+    background-color: #f2ff00;
+    color: black;
+    border: none;
+}

@@ -1,0 +1,14 @@
+
+.newbtn{
+    
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow:  4px 4px 6px  rgb(74, 73, 73);
+    cursor: pointer;
+    font-size: 30px;
+    background-color: #00cc00;
+    color:white;
+    border: none;
+  
+}

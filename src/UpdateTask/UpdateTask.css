@@ -1,0 +1,23 @@
+.form-update{
+    font-size: 30px;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px 1px   rgb(74, 73, 73);
+    width:700px;
+    text-align: center;
+    background-color: #f5f5f2;
+}
+.update-btn{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow:  4px 4px 6px  rgb(74, 73, 73);
+    cursor: pointer;
+    font-size: larger;
+    background-color: #f2ff00;
+    color: black;
+    border: none;
+}
